@@ -1,1 +1,1 @@
-web: ./bin/www npm run dev
+web: node index.js
